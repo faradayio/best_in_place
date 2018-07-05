@@ -17,6 +17,7 @@ gem 'poltergeist'
 gem 'sqlite3'
 gem 'appraisal'
 gem 'launchy'
+gem 'puma'
 
 platforms :mri_21 do
   gem 'byebug'
